@@ -1,0 +1,31 @@
+{
+  "name": "ecommercewebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "next"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-latest": "^6.24.0",
+    "body-parser": "^1.17.1",
+    "bootstrap": "^3.3.7",
+    "cxs": "^3.0.4",
+    "express": "^4.15.2",
+    "jquery": "^3.2.1",
+    "mongoose": "^4.9.5",
+    "next": "^2.1.1",
+    "node-sass": "^4.5.2",
+    "nuka-carousel": "^2.0.4",
+    "postcss-cssnext": "^2.10.0",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "style-it": "^1.6.7",
+    "styled-jsx-postcss": "^0.2.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.4.0"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "mongotask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "NODE_ENV=production node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "jquery": "^3.2.1",
+    "mongoose": "^4.9.7",
+    "mongoose-type-relation": "^1.0.2",
+    "next": "^2.2.0",
+    "react": "^15.5.4",
+    "react-bootstrap": "^0.31.0",
+    "react-dom": "^15.5.4"
+  }
+}
